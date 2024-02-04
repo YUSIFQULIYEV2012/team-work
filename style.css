@@ -102,7 +102,7 @@ margin-right: 100px;
 }
 .div-2{
     background-color: white;
-    height: 4000px;
+    height: 3000px;
 }
 .tag-6{
     font-size: 36px;
@@ -391,8 +391,8 @@ margin-right: 100px;
 }
 .end{
     background-color: #263238;
-    width: 1,440px;
-    height: 628px;
+    width: 1440px;
+    height: 328px;
 }
 .zaz{
     color: white;
@@ -444,6 +444,10 @@ margin-right: 100px;
 }
 .hb-plk-123{
     font-size: 20px;
-    background-color: #5f696e;
-    padding: 20px;
+    background-color: #4d5052;
+    padding: 14px;
+    border-radius: 20px;
+    margin-right: 100px;
+    color: #F5F7FA;
+    font-weight: 100;
 }
